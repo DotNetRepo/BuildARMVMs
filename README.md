@@ -1,2 +1,1 @@
-# BuildARMVMs
-Build Azure ARM VMs
+# Hello World
